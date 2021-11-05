@@ -1,0 +1,16 @@
+com/lab/SplashActivity.java
+ com.lab.SplashActivity
+com/lab/BuildConfig.java
+ com.lab.BuildConfig
+com/lab/MainActivity.java
+ com.lab.MainActivity
+com/lab/ReactNativeFlipper.java
+ com.lab.ReactNativeFlipper
+ com.lab.ReactNativeFlipper$1
+ com.lab.ReactNativeFlipper$2
+ com.lab.ReactNativeFlipper$2$1
+com/lab/MainApplication.java
+ com.lab.MainApplication
+ com.lab.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
